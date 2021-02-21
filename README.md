@@ -19,7 +19,7 @@
 
 **4. Ứng dụng lặp lại và tương tác trên Mapreduce**
 -  Ứng dụng lặp lại sử dụng lại các kết quả trung gian qua nhiều lần tính toán trong nhiều giai đoạn. Hình minh họa sau giải thích cách hoạt động của Mapreduce hiện tại trong khi thực hiện các hoạt động lặp lại trên MapReduce. Điều này phát sinh chi phí đáng kể do sao chép dữ liệu, I / O đĩa và tuần tự hóa, khiến hệ thống chậm.
--  
+ 
 <p align="center"><img src="https://www.tutorialspoint.com/apache_spark/images/iterative_operations_on_mapreduce.jpg"/></p>
 <p align="center"> <em>Hoạt động lặp lại của Mapreduce</em></p>
 
